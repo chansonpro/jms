@@ -7,7 +7,7 @@ import javax.jms.*;
 /**
  * User: chanson-pro
  * Date-Time: 2017-10-30 10:34
- * Description:
+ * Description:消息中间件
  */
 public class AppProducer {
     private static final String url = "tcp://localhost:61616";
